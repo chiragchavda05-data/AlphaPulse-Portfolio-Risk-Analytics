@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AlphaPulse – Portfolio Risk & Analytics (In Progress)
 
 ## 📌 Project Overview
@@ -80,3 +81,6 @@ This project is currently under development. Advanced analytics and automation w
 
 Chirag Chavda
 
+=======
+# AlphaPulse-Portfolio-Risk-Analytics
+>>>>>>> f8ff9d934ce44a8c3a8aaf190ceda61a31746da9
