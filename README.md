@@ -78,6 +78,4 @@ This project is currently under development. Advanced analytics and automation w
 
 ## 🙌 Author
 
-Chirag Chavda
-
 
